@@ -30,3 +30,22 @@ public class pattern2 {
         }
     }
 }
+//OUTPUT
+/*Half Pyramid
+*
+* *
+* * *
+* * * *
+
+Inverted Half Pyramid
+* * * *
+* * *
+* *
+*
+
+180 rotate Inverted Half Pyramid
+      *
+    * *
+  * * *
+* * * *
+*/
