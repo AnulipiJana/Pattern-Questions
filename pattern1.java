@@ -15,7 +15,6 @@ public class pattern1 {
         }
 
         System.out.println("\nHollow Rectangle");
-
         //outer loop
         for (i=1;i<=r;i++){
             //inner loop
@@ -32,3 +31,15 @@ public class pattern1 {
         }
     }
 }
+
+//OUTPUT
+/*Solid Rectangle
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+Hollow Rectangle
+* * * * * 
+*       * 
+*       * 
+* * * * * */
